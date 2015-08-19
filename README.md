@@ -1,4 +1,4 @@
-Start Slim
+<h3>Start Slim<h3>
 
 <b>Configuration</b>
 
